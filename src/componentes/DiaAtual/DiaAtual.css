@@ -1,0 +1,7 @@
+.dia-atual {
+   display: flex;
+  justify-content: center;
+  background-color: rgb(19, 4, 241);
+  color: white;
+  padding: 20px;
+}
