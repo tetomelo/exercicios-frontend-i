@@ -1,0 +1,7 @@
+.ano-atual {
+  background-color: rgb(255, 0, 0);
+  color: rgb(238, 255, 0);
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
